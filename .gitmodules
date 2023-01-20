@@ -1,0 +1,3 @@
+[submodule "code/boilerplate"]
+	path = code/boilerplate
+	url = https://github.com/ml6team/deepstream-python.git
