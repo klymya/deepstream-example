@@ -20,8 +20,8 @@ batch-size=1
 ##to push the batch even if the complete batch is not formed
 batched-push-timeout=40000
 ## Set muxer output width and height
-width=1280
-height=720
+width=1920
+height=1088
 
 # config-file property is mandatory for any gie section.
 # Other properties are optional and if set will override the properties set in
@@ -38,8 +38,8 @@ config-file=/app/configs/yolov5.txt
 enable=1
 rows=1
 columns=1
-width=1280
-height=720
+width=1920
+height=1088
 
 [osd]
 enable=1

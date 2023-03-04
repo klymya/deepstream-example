@@ -7,7 +7,7 @@ OUTPUT_PATH = 'out_tiling.mp4'
 PGIE_PATH = '/app/configs/yolov5.txt'
 TRACKER_PATH = '/app/configs/nvdcf.txt'
 PREPROCESS_PATH = '/app/configs/preprocess.txt'
-INPUT_SIZE = '1080,720'
+INPUT_SIZE = '1920,1088'
 
 
 def main():
